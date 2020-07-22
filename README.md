@@ -6,7 +6,7 @@
 <a href="https://t.me/Shashank_Mittal">
   <img align="left" alt="Shashank's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="#">
+<a href="https://www.reddit.com/user/Small-Consideration6">
   <img align="left" alt="Shashank's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://www.kaggle.com/mittalshashank05">
