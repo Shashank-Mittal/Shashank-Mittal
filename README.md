@@ -28,10 +28,10 @@ Write Your Own Intro Here.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving ...;
-- 🌱 I’m currently learning ...; 
+- 👨🏽‍💻 I’m currently working on improving my techskills;
+- 🌱 I’m currently learning Deep Learning; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: ...;
+- ⚡️ Fun-Fact: coffee + smashing buttons = magic happens;
 - 📝[Resume](#)
 
 **Languages / Frameworks / Tools**  
