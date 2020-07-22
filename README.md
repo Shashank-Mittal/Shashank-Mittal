@@ -13,7 +13,7 @@
   <img align="left" alt="Shashank's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Shashank's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/blogger.svg" />
+  <img align="left" alt="Shashank's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kaggle.svg" />
 </a>
 <br><br>
 
