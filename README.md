@@ -14,7 +14,7 @@
 </a>
 <br>
 
-<img align="right" src="https://github.com/Shashank-Mittal/Shashank-Mittal/blob/master/Capture.PNG?raw=true"/>
+<img align="right" src="https://github.com/Shashank-Mittal/Shashank-Mittal/blob/master/Capture.PNG?raw=true"/> <img align="right" src="https://github.com/Shashank-Mittal/Shashank-Mittal/blob/master/sdf.PNG?raw=true"/>
 <br>
 **Talking about Personal Stuffs:**
 
