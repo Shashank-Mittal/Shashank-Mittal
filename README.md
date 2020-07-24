@@ -12,17 +12,10 @@
 <a href="https://www.kaggle.com/mittalshashank05">
   <img align="left" alt="Shashank's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kaggle.svg" />
 </a>
-<br><br>
-
-
 <br>
 **Badges**
 <img src="https://github.com/Shashank-Mittal/Shashank-Mittal/blob/master/Capture.PNG?raw=true"/>
-
 <br>
-<br>
-<br>
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskills;
