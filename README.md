@@ -17,7 +17,7 @@
 
 <br>
 
-Write Your Own Intro Here.
+<img src="https://github.com/Shashank-Mittal/Shashank-Mittal/blob/master/Capture.PNG?raw=true" height="40" width="40" />
 
 <br>
 <br>
