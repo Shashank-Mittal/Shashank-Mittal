@@ -13,8 +13,8 @@
   <img align="left" alt="Shashank's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kaggle.svg" />
 </a>
 <br>
-**Badges**
-<img src="https://github.com/Shashank-Mittal/Shashank-Mittal/blob/master/Capture.PNG?raw=true"/>
+
+<img align="right" src="https://github.com/Shashank-Mittal/Shashank-Mittal/blob/master/Capture.PNG?raw=true"/>
 <br>
 **Talking about Personal Stuffs:**
 
