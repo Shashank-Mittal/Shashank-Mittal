@@ -16,7 +16,7 @@
 
 
 <br>
-
+**Badges**
 <img src="https://github.com/Shashank-Mittal/Shashank-Mittal/blob/master/Capture.PNG?raw=true"/>
 
 <br>
