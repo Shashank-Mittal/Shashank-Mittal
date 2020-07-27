@@ -1,6 +1,6 @@
 ### Hey 👋🏽, Welcome To [Shashank's](https://github.com/Shashank-Mittal?tab=repositories) Profile.
 
-<a href="https://www.linkedin.com/in/shashank-mittal-179073172/">
+<a href="https://www.linkedin.com/in/shashankmittal05/">
   <img align="left" alt="Shashank's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/Shashank_Mittal">
