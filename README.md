@@ -3,14 +3,8 @@
 <a href="https://www.linkedin.com/in/shashankmittal05/">
   <img align="left" alt="Shashank's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Shashank_Mittal">
-  <img align="left" alt="Shashank's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="https://www.hackerrank.com/shashank_mittal1">
   <img align="left" alt="Shashank's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
-</a>
-<a href="https://www.kaggle.com/mittalshashank05">
-  <img align="left" alt="Shashank's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kaggle.svg" />
 </a>
 <br>
 
